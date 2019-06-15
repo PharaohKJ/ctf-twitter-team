@@ -126,7 +126,7 @@ togetterまとめは以下の数だけ作成する。(カッコ内はまとめ�
   - 第一部 ( CIVIC TECH FORUM 2019「第一セッション｜文楽」 #civictechjp #文楽1 )
   - 第二部 ( CIVIC TECH FORUM 2019「第二セッション｜文楽」 #civictechjp #文楽2 )
   - 第三部 ( CIVIC TECH FORUM 2019「第三セッション｜文楽」 #civictechjp #文楽3 )
-- アンカンファレンス ( CIVIC TECH FORUM 2019「アンカンファレンス｜文楽」 #civictechjp #unconf )
+- アンカンファレンス ( CIVIC TECH FORUM 2019「アンカンファレンス」 #civictechjp #unconf )
 
 
 ### 去年のまとめ
