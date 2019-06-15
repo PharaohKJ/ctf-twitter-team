@@ -65,23 +65,23 @@ Civic Tech Forum Twitter 実況チームは、会の内容をできるだけ
 
 ## パート
 
-Civic Tech Forum 2019 では以下のパートがある(括弧書きの中は各パート用サブハッシュタグ、これを元にtogetterでまとめるのでつけること！)
+Civic Tech Forum 2019 では以下のパートがある(括弧書きの中は各パート用ハッシュタグ、これを元にtogetterでまとめるのでつけること！)
 
-- 本会 ( __サブハッシュタグなし__ )
+- 本会 ( #civictechjp )
 - LT部屋 カフェ
-  - 第一部 ( #カフェ1 )
-  - 第二部 ( #カフェ2 )
-  - 第三部 ( #カフェ3 )
+  - 第一部 ( #ctfc1 )
+  - 第二部 ( #ctfc2 )
+  - 第三部 ( #ctfc3 )
 - LT部屋2 文楽
-  - 第一部 ( #文楽1 )
-  - 第二部 ( #文楽2 )
-  - 第三部 ( #文楽3 )
-- アンカンファレンス ( #unconf )
+  - 第一部 ( #ctfb1 )
+  - 第二部 ( #ctfb2 )
+  - 第三部 ( #ctfb3 )
+- アンカンファレンス ( #ctfuc )
 
 
 ## やること
 
-自分が担当しているパートの本ハッシュタグ + パート用ハッシュタグを付けて実況ツイートします。
+自分が担当しているパートの本ハッシュタグ( #civictechjp ) + パート用ハッシュタグを付けて実況ツイートします。
 
 ## 書式
 
@@ -119,14 +119,14 @@ togetterまとめは以下の数だけ作成する。(カッコ内はまとめ�
 
 - 全体まとめ ( CIVIC TECH FORUM 2019「全部」 #civictechjp )
 - LT部屋1
-  - 第一部 ( CIVIC TECH FORUM 2019「第一セッション｜カフェ」 #civictechjp #カフェ1 )
-  - 第二部 ( CIVIC TECH FORUM 2019「第二セッション｜カフェ」 #civictechjp #カフェ2 )
-  - 第三部 ( CIVIC TECH FORUM 2019「第三セッション｜カフェ」 #civictechjp #カフェ3 )
+  - 第一部 ( CIVIC TECH FORUM 2019「第一セッション｜カフェ」 #civictechjp #ctfc1 )
+  - 第二部 ( CIVIC TECH FORUM 2019「第二セッション｜カフェ」 #civictechjp #ctfc2 )
+  - 第三部 ( CIVIC TECH FORUM 2019「第三セッション｜カフェ」 #civictechjp #ctfc3 )
 - LT部屋2
-  - 第一部 ( CIVIC TECH FORUM 2019「第一セッション｜文楽」 #civictechjp #文楽1 )
-  - 第二部 ( CIVIC TECH FORUM 2019「第二セッション｜文楽」 #civictechjp #文楽2 )
-  - 第三部 ( CIVIC TECH FORUM 2019「第三セッション｜文楽」 #civictechjp #文楽3 )
-- アンカンファレンス ( CIVIC TECH FORUM 2019「アンカンファレンス」 #civictechjp #unconf )
+  - 第一部 ( CIVIC TECH FORUM 2019「第一セッション｜文楽」 #civictechjp #ctfb1 )
+  - 第二部 ( CIVIC TECH FORUM 2019「第二セッション｜文楽」 #civictechjp #ctfb2 )
+  - 第三部 ( CIVIC TECH FORUM 2019「第三セッション｜文楽」 #civictechjp #ctfb3 )
+- アンカンファレンス ( CIVIC TECH FORUM 2019「アンカンファレンス」 #civictechjp #ctfuc )
 
 
 ### 去年のまとめ
