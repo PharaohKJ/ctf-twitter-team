@@ -215,4 +215,4 @@ http://2019.civictechforum.jp/
 
 08:30〜 運営スタッフ会場入り
 09:00 サポートスタッフ会場入口に集合 ( [アクセス｜森ビルについて｜森ビル株式会社 - MORI Building](https://www.mori.co.jp/company/about_us/access.html) を参照。クモオブジェのみえる入り口から入って受付付近でお待ち下さい。
-09:45〜 直前打ち合わせ
+09:15〜 直前打ち合わせ
